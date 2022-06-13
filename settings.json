@@ -1,0 +1,177 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Fira Code", 
+    "editor.fontLigatures": true, 
+
+    "terminal.integrated.fontSize": 14,
+
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 26,
+    "editor.semanticHighlighting.enabled": false,
+
+    "editor.rulers": [80, 120],
+
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    },
+
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      //"**/node_modules": true
+    },
+
+    "files.associations": {
+      ".sequelizerc": "javascript",
+      ".stylelintrc": "json",
+      ".prettierrc": "json",
+      "*.tsx": "typescriptreact"
+    },
+
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.suggest.autoImports": true,
+    "typescript.tsserver.log": "off",
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+      },
+      "editor.formatOnPaste": true,
+      "editor.formatOnSave": true
+    },
+    /* "material-icon-theme.activeIconPack": "nest", */
+
+    "material-icon-theme.folders.associations": {
+      "infra": "app",
+      "entities": "class",
+      "domain": "class",
+      "schemas": "class",
+      "typeorm": "database",
+      "repositories": "mappings",
+      "http": "container",
+      "migrations": "tools",
+      "modules": "components",
+      "implementations": "core",
+      "dtos": "typescript",
+      "fakes": "mock",
+      "websockets": "pipe",
+      "protos": "pipe",
+      "grpc": "pipe",
+      "providers": "include",
+      "subscribers": "messages",
+      "useCases": "controller",
+      "kafka": "scripts",
+      "mappers": "meta",
+      "_shared": "shared",
+      "eslint-config": "tools",
+      "kube": "kubernetes"
+    },
+
+    "material-icon-theme.files.associations": {
+      "ormconfig.json": "database",
+      "tsconfig.json": "tune",
+      "*.proto": "3d",
+      "*.webpack.js": "webpack"
+    },
+    "window.menuBarVisibility": "toggle",
+    "tabnine.experimentalAutoImports": true,
+    "cSpell.enableFiletypes": [
+      "!asciidoc",
+      "!c",
+      "!cpp",
+      "!csharp",
+      "!go",
+      "!handlebars",
+      "!haskell",
+      "!jade",
+      "!java",
+      "!latex",
+      "!php",
+      "!pug",
+      "!python",
+      "!restructuredtext",
+      "!rust",
+      "!scala",
+      "!scss"
+    ],
+    "cSpell.language": "en,pt",
+    "editor.suggestSelection": "first",
+    "cSpell.userWords": [
+      "Aclinica",
+      "Anamnese",
+      "Anmnesis",
+      "Atendentes",
+      "Casefold",
+      "chakra",
+      "childbith",
+      "Concepção",
+      "Contato",
+      "desenvolvedor",
+      "dtos",
+      "Entretenimentos",
+      "Esporte",
+      "faunadb",
+      "Hipocondrias",
+      "hookform",
+      "htpp",
+      "identificate",
+      "indetification",
+      "Latters",
+      "Laudo",
+      "middlewares",
+      "Nikolas",
+      "percepção",
+      "posttest",
+      "prefetch",
+      "prismic",
+      "Readabled",
+      "Registro",
+      "Roboto",
+      "rocketseat",
+      "signin",
+      "symptomatics",
+      "Tipagem",
+      "Tipagens",
+      "toastify",
+      "typeorm",
+      "unstyled",
+      "updatepatient",
+      "uuidv",
+      "varchar"
+    ],
+    "workbench.productIconTheme": "fluent-icons",
+    "terminal.integrated.showExitAlert": false,
+
+    "splitHTMLAttributes.closingBracketOnNewLine": true,
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true,
+    "explorer.compactFolders": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "workbench.colorTheme": "Omni",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  }
