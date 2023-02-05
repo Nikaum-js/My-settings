@@ -78,6 +78,9 @@
       "*.proto": "3d",
       "*.webpack.js": "webpack"
     },
+    "material-icon-theme.folders.associations": {
+      "seeds": "Stack"
+    },
     "window.menuBarVisibility": "toggle",
     "tabnine.experimentalAutoImports": true,
     "cSpell.enableFiletypes": [
@@ -102,6 +105,52 @@
     "cSpell.language": "en,pt",
     "editor.suggestSelection": "first",
     "cSpell.userWords": [
+      "Aclinica",
+      "Anamnese",
+      "Anmnesis",
+      "Atendentes",
+      "Casefold",
+      "chakra",
+      "childbith",
+      "clsx",
+      "Concepção",
+      "Contato",
+      "desenvolvedor",
+      "dtos",
+      "Entretenimentos",
+      "Esporte",
+      "fastify",
+      "faunadb",
+      "Hipocondrias",
+      "hookform",
+      "htpp",
+      "Ibge",
+      "identificate",
+      "indetification",
+      "Latters",
+      "Laudo",
+      "middlewares",
+      "municipios",
+      "nativewind",
+      "Nikolas",
+      "percepção",
+      "posttest",
+      "prefetch",
+      "prismic",
+      "Readabled",
+      "Registro",
+      "Roboto",
+      "rocketseat",
+      "signin",
+      "symptomatics",
+      "Tipagem",
+      "Tipagens",
+      "toastify",
+      "typeorm",
+      "unstyled",
+      "updatepatient",
+      "uuidv",
+      "varchar"
     ],
     "workbench.productIconTheme": "fluent-icons",
     "terminal.integrated.showExitAlert": false,
@@ -113,6 +162,7 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "javascript.updateImportsOnFileMove.enabled": "never",
     "[prisma]": {
+      "editor.formatOnSave": true,
       "editor.defaultFormatter": "Prisma.prisma"
     },
     "bracketPairColorizer.depreciation-notice": false,
@@ -129,7 +179,6 @@
     "[html]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "window.zoomLevel": 1,
     "[javascriptreact]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
